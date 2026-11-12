@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Recipe App</string>
+    <string name="login_title">Welcome Back</string>
+    <string name="login_subtitle">Sign in to explore &amp; save tasty recipes</string>
+    <string name="email_hint">Email address</string>
+    <string name="password_hint">Password (min 6 characters)</string>
+    <string name="sign_in">Sign In</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="guest_login">Continue as Guest</string>
+    <string name="switch_to_register">Don\'t have an account? Sign Up</string>
+    <string name="switch_to_login">Already have an account? Sign In</string>
+    <string name="google_sign_in">Sign in with Google</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="reset_password_sent">Password reset email sent! Check your inbox.</string>
+
+    <string name="search_hint">Search recipes (e.g. Pasta, Chicken)...</string>
+    <string name="scan_ingredient">Snap Ingredient</string>
+    <string name="favourites">Favourites</string>
+    <string name="all_recipes">All Recipes</string>
+    <string name="no_recipes_found">No recipes found</string>
+    <string name="no_recipes_found_desc">Try searching with a different ingredient or dish name.</string>
+    <string name="network_error_title">Network Connection Error</string>
+    <string name="network_error_desc">Could not reach TheMealDB server. Check your connection.</string>
+    <string name="retry">Retry</string>
+    <string name="watch_youtube">Watch on YouTube</string>
+    <string name="ingredients">Ingredients</string>
+    <string name="instructions">Instructions</string>
+    <string name="no_favorites_title">No favourites yet</string>
+    <string name="no_favorites_desc">Tap the heart on any recipe card or details page to add it here!</string>
+    <string name="top_detected_labels">Recognised Ingredients (Top Labels)</string>
+    <string name="detected_receipt_text">Receipt / Text Recognition</string>
+    <string name="receipt_amount_instruction">Amounts &amp; text lines detected from receipt or package. Tap any line to search recipes!</string>
+    <string name="capture_photo">Take Photo</string>
+    <string name="pick_gallery">Pick from Gallery</string>
+</resources>

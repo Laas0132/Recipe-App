@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- App Palette -->
+    <color name="primary">#FF3838</color>
+    <color name="primary_dark">#D32F2F</color>
+    <color name="primary_light">#FFCDD2</color>
+    <color name="accent">#FF8F00</color>
+    <color name="accent_light">#FFE082</color>
+
+    <color name="background_light">#F8F9FA</color>
+    <color name="surface_card">#FFFFFF</color>
+    <color name="text_primary">#212121</color>
+    <color name="text_secondary">#757575</color>
+    <color name="divider">#EEEEEE</color>
+
+    <color name="chip_bg">#FFF3E0</color>
+    <color name="chip_stroke">#FFE0B2</color>
+    <color name="tag_category_bg">#E8F5E9</color>
+    <color name="tag_category_text">#2E7D32</color>
+    <color name="youtube_red">#FF0000</color>
+</resources>
